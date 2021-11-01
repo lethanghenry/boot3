@@ -1,0 +1,197 @@
+.list-group li {
+    background-color: #2A2F33;
+    margin-left: 0px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.list-group {
+    background: #2A2F33;
+}
+
+.img-fuild {
+    padding: 0px;
+}
+
+.container {
+    padding: 0px;
+}
+
+.main.col-9 {
+    padding: 0px;
+}
+
+.main.col-8 {
+    padding: 0px;
+}
+
+.list-group li a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-group li:hover {
+    background-color: red !important;
+    color: #2A2F33;
+}
+
+.blo {
+    background-color: white;
+    height: 150px;
+}
+
+.card-footer {
+    background-color: white;
+    height: 40px;
+    margin-bottom: 20px;
+    margin: 0%!important;
+}
+
+.card-img {
+    height: 70px;
+    padding: 0!important;
+}
+
+.imageright {
+    background-color: #EDEFF0;
+    padding: 0!important;
+    background-color: #EDEFF0;
+    margin-top: 20px!important;
+}
+
+.card {
+    background-color: #EDEFF0!important;
+    border: 0;
+}
+
+.decription {
+    position: absolute;
+    top: 80%;
+    color: white;
+    left: 10%;
+}
+
+.detail {
+    margin: 70px;
+}
+
+.content {
+    position: relative;
+}
+
+.content img {
+    width: 100%;
+    margin: 0;
+    background-color: white;
+}
+
+.menu {
+    padding: 0px;
+}
+
+.text-left {
+    border-bottom: 2px solid #ff0000;
+    width: 100px;
+}
+
+.image {
+    margin-top: 15px;
+    width: 140px;
+    height: 40px;
+}
+
+.text {
+    text-decoration: none;
+    border-bottom: 2px solid #ff0000;
+    width: 50px;
+    color: black;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.right3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    float: right;
+    background-color: white!important;
+}
+
+.text2 {
+    text-decoration: none;
+    color: black;
+    float: left;
+    left: 0;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.text3 {
+    text-decoration: none;
+    border-bottom: 2px solid #ff0000;
+    width: 100px;
+    color: black;
+    float: left;
+    left: 0;
+}
+
+.container {
+    position: relative;
+}
+
+.container img {
+    display: block;
+}
+
+.container .fas {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+}
+
+.decription {
+    backdrop-filter: blur(10px);
+}
+
+#icon2 {
+    position: absolute;
+    top: 100px;
+    right: 0px;
+}
+
+.iconeye {
+    position: absolute;
+    top: 70%;
+    color: white;
+    left: 85%;
+}
+
+.textview {
+    position: absolute;
+    top: 50%;
+    color: blue;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.iconeye2 {
+    position: absolute;
+    top: 0%;
+    color: white;
+    left: 95%;
+}
+
+.iconeye3 {
+    position: absolute;
+    top: 9%;
+    color: white;
+    left: 85%;
+}
